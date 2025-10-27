@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {}
+    "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+    "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "projectName": "eCommerce.SharedLibrary",
-        "projectPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\halgh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
