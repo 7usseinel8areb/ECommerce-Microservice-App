@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middlewares\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middlewares\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middlewares\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middlewares\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\sharedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06F1476-6FC3-56B8-AD59-A516B0DF7D0C}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Responses\\Response.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:29:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:29:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:29:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedService.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedService.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\SharedService.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedService.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\SharedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:40:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTAuthenticationScheme.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:24:44.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middlewares\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Middlewares\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middlewares\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Middlewares\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:15:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middlewares\\GlobalException.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Middlewares\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middlewares\\GlobalException.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Middlewares\\GlobalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T08:57:29.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
