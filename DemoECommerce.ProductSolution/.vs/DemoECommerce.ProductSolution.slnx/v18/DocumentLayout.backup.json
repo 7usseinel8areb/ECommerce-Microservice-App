@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C98072-D732-4DDF-9062-A5A354C4A0CE}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F811FBCC-2788-4B8F-BA5B-F93D8027C1B5}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D25437E-5116-40CF-A9B7-FF8F629DF92E}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.productsolution\\productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D25437E-5116-40CF-A9B7-FF8F629DF92E}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037A0280-0D01-FF6F-6210-90E1ECB2528E}|..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\halgh\\onedrive\\desktop\\self projects\\ecommercemicroservice\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:13:47.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Program.cs*",
+              "RelativeToolTip": "ProductApi.Presentation\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:12:07.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T20:59:37.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T20:58:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:51:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:01:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAH8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:59:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:58:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\halgh\\OneDrive\\Desktop\\Self Projects\\EcommerceMicroservice\\DemoECommerce.ProductSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:57:51.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

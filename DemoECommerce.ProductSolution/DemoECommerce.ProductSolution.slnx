@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../DemoECommerce.SharedLibrarySolution/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj" />
+  <Project Path="ProductApi.Application/ProductApi.Application.csproj" Id="8d25437e-5116-40cf-a9b7-ff8f629df92e" />
+  <Project Path="ProductApi.Domain/ProductApi.Domain.csproj" Id="d2f22d69-8d53-471b-be5e-53a7a406f2de" />
+  <Project Path="ProductApi.Infrastructure/ProductApi.Infrastructure.csproj" Id="f811fbcc-2788-4b8f-ba5b-f93d8027c1b5" />
+  <Project Path="ProductApi.Presentation/ProductApi.Presentation.csproj" Id="18c98072-d732-4ddf-9062-a5a354c4a0ce" />
+</Solution>
