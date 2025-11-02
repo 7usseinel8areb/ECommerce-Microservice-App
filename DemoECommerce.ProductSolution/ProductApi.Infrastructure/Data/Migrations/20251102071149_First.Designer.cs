@@ -11,7 +11,7 @@ using ProductApi.Infrastructure.Data;
 namespace ProductApi.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(ProductDbContext))]
-    [Migration("20251029074020_First")]
+    [Migration("20251102071149_First")]
     partial class First
     {
         /// <inheritdoc />
