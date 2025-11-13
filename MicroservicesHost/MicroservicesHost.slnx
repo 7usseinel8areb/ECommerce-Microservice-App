@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DemoECommerce.AuthenticationApiSolution/AuthenticationApi.Presentation/AuthenticationApi.Presentation.csproj" />
+  <Project Path="../DemoECommerce.OrderApiSolution/OrderApi.Presentation/OrderApi.Presentation.csproj" />
+  <Project Path="../DemoECommerce.ProductSolution/ProductApi.Presentation/ProductApi.Presentation.csproj" />
+  <Project Path="MicroservicesHost.csproj" />
+</Solution>
