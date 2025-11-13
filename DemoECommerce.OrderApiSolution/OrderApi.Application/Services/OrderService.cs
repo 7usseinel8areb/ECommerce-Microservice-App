@@ -30,7 +30,7 @@ internal class OrderService(IOrder orderInterface,
     {
         // Call user api using http client
         // Redirect this call to the api gateway since user api is not response to outsiders.
-        var getUser = await httpClient.GetAsync($"/api/users/{id}");
+        var getUser = await httpClient.GetAsync($"http://localhost:5000/api/Authentication/{id}");
         if (!getUser.IsSuccessStatusCode)
             return null!;
 
@@ -42,7 +42,7 @@ internal class OrderService(IOrder orderInterface,
     public async Task<OrderDetailsDTO> GetOrderDetails(int orderId)
     {
         var order = await orderInterface.FindByIdAsync(orderId);
-        if (order == null && order!.Id >0)
+        if (order == null || order.Id <= 0)
             return null!;
 
         // Get Retry pipeline
