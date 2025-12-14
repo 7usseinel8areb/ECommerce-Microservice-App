@@ -1,4 +1,6 @@
-﻿using eCommerce.SharedLibrary.Logs;
+﻿using eCommerce.SharedLibrary.DependencyInjection;
+using eCommerce.SharedLibrary.Logs;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using OrderApi.Application.Services;
@@ -64,5 +66,15 @@ public static class ServiceContainer
          */
 
         return services;
+    }
+
+    public static IApplicationBuilder UseInfrastructurePolicy(this IApplicationBuilder app)
+    {
+        // Use Shared Policies
+        // Register Middlewares such as handle external errors, logging, etc.
+        // Listen to only api gateway calls 
+        SharedService.UseSharedPolicies(app);
+
+        return app;
     }
 }

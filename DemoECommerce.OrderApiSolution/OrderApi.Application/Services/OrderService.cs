@@ -30,7 +30,7 @@ internal class OrderService(IOrder orderInterface,
     {
         // Call user api using http client
         // Redirect this call to the api gateway since user api is not response to outsiders.
-        var getUser = await httpClient.GetAsync($"http://localhost:5000/api/Authentication/{id}");
+        var getUser = await httpClient.GetAsync($"/api/authentication/{id}");
         if (!getUser.IsSuccessStatusCode)
             return null!;
 

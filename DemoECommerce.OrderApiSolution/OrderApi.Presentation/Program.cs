@@ -18,6 +18,8 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
 
+app.UseInfrastructurePolicy();
+
 
 app.UseHttpsRedirection();
 
