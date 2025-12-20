@@ -55,7 +55,7 @@ public class ProductsController(IProduct productInterface) : ControllerBase
         var getEntity = ProductConversions.ToEntity(productDto);
         var response = await productInterface.CreateAsync(getEntity);
 
-        return response.Flag ? CreatedAtAction(nameof(GetProductById), new { id = getEntity.Id }) /*Ok(response)*/: BadRequest(response.Message);
+        return response.Flag ? /*CreatedAtAction(nameof(GetProductById), new { id = getEntity.Id }) */Ok(response) : BadRequest(response.Message);
     }
 
     [HttpPut]
