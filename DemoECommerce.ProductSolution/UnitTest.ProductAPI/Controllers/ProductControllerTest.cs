@@ -76,8 +76,6 @@ namespace UnitTest.ProductAPI.Controllers
             message.Should().Be("No products found!");
         }
 
-
-
         // Create Product
         [Fact]
         public async Task CreateProduct_WhenModelStateIsValid_ReturnOkResponse()
@@ -100,7 +98,6 @@ namespace UnitTest.ProductAPI.Controllers
             okResponse!.Flag.Should().BeTrue();
             okResponse!.Message.Should().Be("Product created successfully.");
         }
-
 
         [Fact]
         public async Task CreateProduct_WhenModelStateIsInvalid_ReturnBadRequestResponse()
@@ -146,7 +143,6 @@ namespace UnitTest.ProductAPI.Controllers
             responseResult.Should().NotBeNull();
             responseResult.Should().Be("Product creation failed.");
         }
-
 
         // Update Product
         [Fact]

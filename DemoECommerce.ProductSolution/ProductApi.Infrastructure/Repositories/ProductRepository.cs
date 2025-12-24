@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 
 namespace ProductApi.Infrastructure.Repositories
 {
-    internal class ProductRepository(ProductDbContext context) : IProduct
+    public class ProductRepository(ProductDbContext context) : IProduct
     {
         public async Task<Response> CreateAsync(Product entity)
         {
@@ -28,10 +28,10 @@ namespace ProductApi.Infrastructure.Repositories
                 {
                     return new Response(true, "Product created successfully.");
                 }
-                
+
                 return new Response(false, "Failed to create product. Please try again.");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 // Log the original exception 
                 LogException.LogExceptions(ex);
@@ -46,7 +46,7 @@ namespace ProductApi.Infrastructure.Repositories
             try
             {
                 var product = await FindByIdAsync(id);
-                
+
                 if (product is null)
                 {
                     return new Response(false, "Product not found.");
@@ -73,7 +73,7 @@ namespace ProductApi.Infrastructure.Repositories
             {
                 var prouct = await context.Products.FindAsync(id);
 
-                return prouct is not null? prouct : null!;
+                return prouct is not null ? prouct : null!;
             }
             catch (Exception ex)
             {
@@ -94,7 +94,7 @@ namespace ProductApi.Infrastructure.Repositories
                     .AsNoTracking()
                     .ToListAsync();
 
-                return products is not null? products: null!;
+                return products is not null ? products : null!;
             }
             catch (Exception ex)
             {
@@ -108,7 +108,8 @@ namespace ProductApi.Infrastructure.Repositories
 
         public async Task<Product> GetByAsync(Expression<Func<Product, bool>> expression)
         {
-            try{
+            try
+            {
                 var product = await context.Products
                 .Where(expression)
                 .FirstOrDefaultAsync()!;
