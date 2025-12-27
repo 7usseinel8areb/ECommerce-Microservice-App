@@ -16,8 +16,8 @@ internal class OrderRepository(OrderDbContext context) : IOrder
         {
             var order = context.Orders.Add(entity).Entity;
             await context.SaveChangesAsync();
-            
-            return order.Id > 0? new Response(true, "Order created successfully.") 
+
+            return order.Id > 0 ? new Response(true, "Order created successfully.")
                                : new Response(false, "Failed to create order.");
         }
         catch (Exception ex)
@@ -63,7 +63,7 @@ internal class OrderRepository(OrderDbContext context) : IOrder
             return order is null ? null! : order;
         }
         catch (Exception ex)
-            {
+        {
             // Log the original exception 
             LogException.LogExceptions(ex);
 
@@ -84,7 +84,7 @@ internal class OrderRepository(OrderDbContext context) : IOrder
 
         }
         catch (Exception ex)
-            {
+        {
             // Log the original exception 
             LogException.LogExceptions(ex);
 
@@ -113,7 +113,7 @@ internal class OrderRepository(OrderDbContext context) : IOrder
         }
     }
 
-    public async Task<IEnumerable<Order>> GetOrderAsync(Expression<Func<Order, bool>> expression)
+    public async Task<IEnumerable<Order>> GetOrdersAsync(Expression<Func<Order, bool>> expression)
     {
         try
         {
